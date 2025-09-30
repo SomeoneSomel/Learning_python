@@ -11,3 +11,4 @@ elif tmpizza == "média" and sab == 1:
     print("Pedido padrão: processamento normal")
 else:
     print("Pedido de baixo volume: pode ser processado a qualquer momento.")
+    print("")
