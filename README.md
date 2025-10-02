@@ -1,0 +1,1 @@
+some files of me learning python or some other language idk im too lazy to make a good repository sorry. also, most of the things in this repo is on portuguese, so if you are a citizen of the freedom country, you maybe will need google translate.
